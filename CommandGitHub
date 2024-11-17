@@ -1,0 +1,9 @@
+git init   # pour initialiser rep
+
+git add .  # pour ajouter tous les fichiers au suivi
+
+git commit -m "First commit"  # pour créer un commit
+
+git remote add origin https://URL
+
+git push -u origin master  # la branche master
